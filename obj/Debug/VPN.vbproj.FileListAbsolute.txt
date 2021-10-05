@@ -1,0 +1,21 @@
+C:\Users\Levi\source\repos\VPN\VPN\obj\Debug\VPN.Resources.resources
+C:\Users\Levi\source\repos\VPN\VPN\obj\Debug\VPN.vbproj.GenerateResource.cache
+C:\Users\Levi\source\repos\VPN\VPN\obj\Debug\VPN.vbproj.CoreCompileInputs.cache
+C:\Users\Levi\Desktop\VPN.exe
+C:\Users\Levi\Desktop\VPN.pdb
+C:\Users\Levi\Desktop\VPN.xml
+C:\Users\Levi\source\repos\VPN\VPN\obj\Debug\VPN.exe
+C:\Users\Levi\source\repos\VPN\VPN\obj\Debug\VPN.xml
+C:\Users\Levi\source\repos\VPN\VPN\obj\Debug\VPN.pdb
+C:\Users\Levi\source\repos\VPN\VPN\obj\Debug\VPN.vpn.resources
+C:\Desktop\Micro VPN.exe
+C:\Desktop\Micro VPN.pdb
+C:\Desktop\Micro VPN.xml
+C:\Users\Levi\Desktop\VPN\obj\Debug\Levi.vpn.resources
+C:\Users\Levi\Desktop\VPN\obj\Debug\Levi.Resources.resources
+C:\Users\Levi\Desktop\VPN\obj\Debug\VPN.vbproj.GenerateResource.cache
+C:\Users\Levi\Desktop\VPN\obj\Debug\VPN.vbproj.CoreCompileInputs.cache
+C:\Users\Levi\Desktop\VPN\obj\Debug\Micro VPN.exe
+C:\Users\Levi\Desktop\VPN\obj\Debug\Micro VPN.xml
+C:\Users\Levi\Desktop\VPN\obj\Debug\Micro VPN.pdb
+C:\Users\Levi\Desktop\VPN\obj\Debug\VPN.vbprojAssemblyReference.cache
